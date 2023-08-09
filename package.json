@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "@ag-grid-community/client-side-row-model": "^30.0.6",
     "@ag-grid-community/core": "^30.0.6",
     "@ag-grid-community/csv-export": "^30.0.6",
@@ -27,6 +28,8 @@
     "@ag-grid-enterprise/sparklines": "^30.0.6",
     "@ag-grid-enterprise/status-bar": "^30.0.6",
     "@ag-grid-enterprise/viewport-row-model": "^30.0.6",
+=======
+>>>>>>> eb99e66b849018c8918fba87376ff00086374d95
     "@reduxjs/toolkit": "^1.9.3",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
