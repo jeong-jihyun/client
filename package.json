@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
     "@ag-grid-community/client-side-row-model": "^30.0.6",
     "@ag-grid-community/core": "^30.0.6",
     "@ag-grid-community/csv-export": "^30.0.6",
